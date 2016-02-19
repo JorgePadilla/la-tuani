@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">HRN</string>
-    <string name="app_short_name">HRN</string>
-    <string name="url">http://radio29.itouchradio.net:8541/</string>
+    <string name="app_name">La Tuani 100.3 FM</string>
+    <string name="app_short_name">La Tuani 100.3 FM</string>
+    <string name="url">http://165.98.68.45:8000/latuani.mp3</string>
     <string name="error_msg">There was an error connecting to the radio station.</string>
     <string name="play">Play</string>
     <string name="pause">Pause</string>

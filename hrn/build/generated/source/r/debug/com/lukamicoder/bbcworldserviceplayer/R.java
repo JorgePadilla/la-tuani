@@ -1645,8 +1645,7 @@ containing a value of this type.
         public static final int common_full_open_on_phone=0x7f020045;
         public static final int common_ic_googleplayservices=0x7f020046;
         public static final int logo=0x7f020047;
-        public static final int logo2=0x7f020048;
-        public static final int notification_template_icon_bg=0x7f020049;
+        public static final int notification_template_icon_bg=0x7f020048;
     }
     public static final class id {
         public static final int action0=0x7f0c0054;
@@ -1800,8 +1799,9 @@ containing a value of this type.
         public static final int main_menu=0x7f0d0000;
     }
     public static final class mipmap {
-        public static final int ic_launcher=0x7f030000;
-        public static final int ic_launcher_white=0x7f030001;
+        public static final int ic_laucher=0x7f030000;
+        public static final int ic_launcher=0x7f030001;
+        public static final int ic_launcher_white=0x7f030002;
     }
     public static final class string {
         public static final int abc_action_bar_home_description=0x7f060000;

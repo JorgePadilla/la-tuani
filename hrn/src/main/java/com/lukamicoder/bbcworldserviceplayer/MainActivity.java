@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     private final Handler initHandler = new Handler();
     private final Handler noInternetHandler = new Handler();
     private Integer dotCount = 0;
-    private final Integer noInternetInterval = 5000;
+    private final Integer noInternetInterval = 4000;
     private final Integer initProgressInterval = 500;
     private Integer initProgressCount = 0;
     private final Integer updateDurationInterval = 500;

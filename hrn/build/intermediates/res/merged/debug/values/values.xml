@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -169,11 +169,11 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/src/main/res/values/dimens.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
@@ -197,10 +197,10 @@
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="abc_max_action_buttons">2</integer>
     <integer name="cancel_button_image_alpha">127</integer>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values/version.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values/version.xml -->
     <eat-comment/>
     <integer name="google_play_services_version">8298000</integer>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="abc_action_bar_home_description">Navigate home</string>
@@ -222,21 +222,21 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/res/values/admob_strings.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/res/values/admob_strings.xml -->
     <eat-comment/>
     <string name="accept">Accept</string>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/src/main/res/values/strings.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="app_name">HRN</string>
-    <string name="app_short_name">HRN</string>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values/auth_strings.xml -->
+    <string name="app_name">La Tuani 100.3 FM</string>
+    <string name="app_short_name">La Tuani 100.3 FM</string>
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values/auth_strings.xml -->
     <eat-comment/>
     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
     <string name="auth_google_play_services_client_google_display_name">Google</string>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/src/main/res/values/strings.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="banner_ad_unit_id"> </string>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values/common_strings.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/values/common_strings.xml -->
     <eat-comment/>
     <string name="common_android_wear_notification_needs_update_text"><ns1:g id="app_name">%1$s</ns1:g> requires an update to the Android Wear app.</string>
     <string name="common_android_wear_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update the Android Wear app.</string>
@@ -268,12 +268,12 @@
     <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
     <string name="common_google_play_services_updating_title">Google Play services are updating</string>
     <string name="common_open_on_phone">Open on phone</string>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/res/values/admob_strings.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/res/values/admob_strings.xml -->
     <eat-comment/>
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="create_calendar_title">Create calendar event</string>
     <string name="decline">Decline</string>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/src/main/res/values/strings.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="error_msg">There was an error connecting to the radio station.</string>
     <string name="exit">Exit</string>
@@ -282,28 +282,28 @@
     <string name="pause">Pause</string>
     <string name="play">Play</string>
     <string name="start_pos">00:00</string>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/res/values/admob_strings.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/res/values/admob_strings.xml -->
     <eat-comment/>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/src/main/res/values/strings.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="unable_to_connect">Unable to connect to radio station.</string>
-    <string name="url">http://radio29.itouchradio.net:8541/</string>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <string name="url">http://165.98.68.45:8000/latuani.mp3</string>
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/src/main/res/values/styles.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat">
     </style>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -1473,7 +1473,7 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/res/values/admob_iap_style.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/res/values/admob_iap_style.xml -->
     <eat-comment/>
     <style name="Theme.IAPTheme" parent="android:Theme">
     <item name="android:windowIsTranslucent">true</item>
@@ -1483,7 +1483,7 @@
     <item name="android:windowIsFloating">true</item>
     <item name="android:backgroundDimEnabled">false</item>
   </style>
-    <!-- From: file:/C:/Users/Jorge%20Padilla/Downloads/HRNV3/HRNV3/bbc-world-service-player-master/bbc-world-service-player-master/hrn/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
+    <!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values/values.xml -->
     <eat-comment/>
     <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
