@@ -1,7 +1,0 @@
-<menu xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:compat="http://schemas.android.com/apk/res-auto">
-    <item android:id="@+id/menuItemPlayControl"
-        android:title="@string/play"
-        android:icon="@android:drawable/ic_media_play"
-        compat:showAsAction="always" />
-</menu><!-- From: file:/root/AndroidStudioProjects/la-tuani/hrn/src/main/res/menu/main_menu.xml -->
